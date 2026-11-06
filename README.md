@@ -20,6 +20,20 @@
 
 ---
 
+## `▌ TECHNOLOGIES & TOOLS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,nodejs,git,github,linux,vscode,docker&perline=12" alt="Tecnologias"/>
+
+<br/><br/>
+
+<sub>Python · JavaScript · TypeScript · React · HTML5 · CSS3 · Node.js · Git · GitHub · Linux · VS Code · Docker</sub>
+
+</div>
+
+---
+
 <table>
 <tr>
 
@@ -55,7 +69,7 @@ Olá! Sou Rafael Souza, desenvolvedor em formação, apaixonado por tecnologia, 
 
 - 📍 Brasil
 - 🔗 [github.com/Rafael-exe](https://github.com/Rafael-exe)
-- ✉️ [prafel584@gmail.com](mailto:prafel584@gmail.com)
+- ✉️ [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 
 ### `▌ CONTATO`
 
@@ -108,20 +122,6 @@ Langs:  https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ex
 </td>
 </tr>
 </table>
-
----
-
-## `▌ TECHNOLOGIES & TOOLS`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,nodejs,git,github,linux,vscode,docker&perline=12" alt="Tecnologias"/>
-
-<br/><br/>
-
-<sub>Python · JavaScript · TypeScript · React · HTML5 · CSS3 · Node.js · Git · GitHub · Linux · VS Code · Docker</sub>
-
-</div>
 
 ---
 
