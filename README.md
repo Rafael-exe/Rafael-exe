@@ -76,10 +76,15 @@ Olá! Sou Rafael Souza, desenvolvedor em formação, apaixonado por tecnologia, 
 
 ### `▌ GITHUB METRICS`
 
+<!-- PLANO B: se algum gráfico não carregar, troque o src dele por um destes:
+Stats:  https://github-readme-stats.vercel.app/api?username=Rafael-exe&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=a78bfa
+Langs:  https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-exe&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9
+-->
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rafael-exe&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=a78bfa&ring_color=a78bfa" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-exe&layout=donut&hide_border=true&langs_count=6&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-exe&theme=dracula" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafael-exe&theme=dracula" alt="Top Languages"/>
 
 <br/>
 
@@ -91,7 +96,12 @@ Olá! Sou Rafael Souza, desenvolvedor em formação, apaixonado por tecnologia, 
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-exe&bg_color=0d0d0d&color=ffffff&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&radius=8" alt="Contribution Graph"/>
+<img width="98%" src="https://ghchart.rshah.org/a78bfa/Rafael-exe" alt="Contribution Graph"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafael-exe&theme=dracula&utcOffset=-3" alt="Horário mais produtivo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-exe&theme=dracula" alt="Repositórios por linguagem"/>
 
 </div>
 
@@ -117,17 +127,7 @@ Olá! Sou Rafael Souza, desenvolvedor em formação, apaixonado por tecnologia, 
 
 ## `▌ FEATURED PROJECTS`
 
-<div align="center">
-
 <!-- Troque "orcafacil" pelo nome exato do repositório do OrçaFácil -->
-<a href="https://github.com/Rafael-exe/orcafacil">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-exe&repo=orcafacil&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=a78bfa" alt="OrçaFácil"/>
-</a>
-<a href="https://github.com/Rafael-exe/metalurgica-r">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-exe&repo=metalurgica-r&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=a78bfa" alt="Metalúrgica R"/>
-</a>
-
-</div>
 
 | Projeto | Descrição | Link |
 | :-- | :-- | :-- |
