@@ -55,7 +55,7 @@ Olá! Sou Rafael Souza, desenvolvedor em formação, apaixonado por tecnologia, 
 
 - 📍 Brasil
 - 🔗 [github.com/Rafael-exe](https://github.com/Rafael-exe)
-- ✉️ [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- ✉️ [prafel584@gmail.com](mailto:prafel584@gmail.com)
 
 ### `▌ CONTATO`
 
